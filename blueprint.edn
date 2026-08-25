@@ -1,6 +1,13 @@
-{:company/legal-name "Interactive Brokers Group, Inc."
- :company/lei "5493004DT6DCDUZNDM53"
+{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/5493004DT6DCDUZNDM53), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
+ :company/inquiry-form-url "https://www.interactivebrokers.com/en/support/fund-my-account.php"
  :company/jurisdiction "US-CT"
- :company/website "https://www.interactivebrokers.com"
+ :company/legal-address "C/O CORPORATION SERVICE COMPANY, 251 LITTLE FALLS DRIVE, 19808, WILMINGTON, US-DE, US"
+ :company/legal-form-elf "XTIQ"
+ :company/legal-jurisdiction "US-DE"
+ :company/legal-name "Interactive Brokers Group, Inc."
+ :company/lei "5493004DT6DCDUZNDM53"
+ :company/lei-status "ISSUED"
+ :company/postal-address "1 Pickwick Plaza, 06830, Greenwich, US-CT, US"
+ :company/registration-number "4251887"
  :company/ticker "IBKR (Nasdaq)"
- :company/inquiry-form-url "https://www.interactivebrokers.com/en/support/fund-my-account.php"}
+ :company/website "https://www.interactivebrokers.com"}
